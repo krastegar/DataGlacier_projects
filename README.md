@@ -10,3 +10,8 @@ Branch = G2M_EDA
 Branch = Flask
 
 *Model Deployment using web app
+
+#### Week 5 Assignment:
+Branch = Heroku
+
+*Machine Learning model deployment using web app Flask on Heroku Cloud platform. 
