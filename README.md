@@ -9,6 +9,6 @@ Deployed CNN classifier to classify microbial communities from fastq files using
 ```
 1. Clone Repository and run app.py
 2. Open Link
-3. Insert fastq file
+3. Insert fastq file (new_data.txt is my test data in Flask folder)
 4. click submit
 ```
